@@ -19,10 +19,7 @@
   - [Pixabay](https://pixabay.com/)
   - [Storyset](https://storyset.com/)
 
-## الصور المستخدمة:
-- [صورة 1 من Pixabay](https://via.placeholder.com/300)
-- [صورة 2 من Pixabay](https://via.placeholder.com/300)
-- [صورة 3 من Pixabay](https://via.placeholder.com/300)
+
 
 ## كيفية الاستخدام:
 1. قم بفتح الرابط في متصفحك للوصول إلى الموقع:
